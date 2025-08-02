@@ -1,0 +1,2 @@
+bazel_dep(name = "dpdk", version = "25.07")
+bazel_dep(name = "openssl", version = "3.3.2")
